@@ -6,7 +6,7 @@
 👩‍💻 Rios Karen
 👩‍💻 Sosa Diana
 
-〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
+〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
 
 𝗦𝗽𝗮𝗰𝗲 𝗜𝗻𝘃𝗮𝗱𝗲𝗿𝘀 🕹️
 ¡Un clásico juego arcade desarrollado con metodología SCRUM! Controla un cañón, dispara a enemigos y esquiva ataques. 🚀
@@ -20,7 +20,7 @@ Product Owner: Franco Varela
 Scrum Master: Wilson Merlo
 Equipo de Desarrollo: Franco Varela, Francisco Romero, Diana Sosa, Santiago Scetti, Karen Ríos
 
-〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
+〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
 
 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗕𝗮𝗰𝗸𝗹𝗼𝗴 📋
 Historias de usuario priorizadas para la jugabilidad principal:
@@ -52,7 +52,7 @@ Franco: Configuré canvas, crearé cañón. Sin bloqueos.
 Francisco: Revisé eventos de teclado, implementaré barra espaciadora. Necesita cañón.
 Otros: Investigando enemigos/escudos, apoyando al equipo. Sin bloqueos.
 
-〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
+〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
 
 𝗣𝗿𝗼𝘁𝗼𝘁𝗶𝗽𝗼 𝗱𝗲 𝗹𝗮 𝗣𝗿𝗶𝗺𝗲𝗿𝗮 𝗘𝗻𝘁𝗿𝗲𝗴𝗮 🎮
 
@@ -81,7 +81,7 @@ Desarrollo: Visual Studio Code, GitHub
 Gestión: draw.io (arquitectura), Trello/ASANA (tareas), Notion (backlog)
 Asistentes IA: ChatGPT, Copilot, DeepSeek, Claude
 
-〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
+〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢〢
 
 𝗘𝗻𝘁𝗿𝗲𝗴𝗮 📦
 Este README, código y recursos se entregarán en PDF a través del foro de la cátedra, marcando el progreso del Sprint 1 (y avances extra, a modo de entretenimiento). 📄
